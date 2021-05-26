@@ -1,6 +1,6 @@
 let personne = {
     nom : "Esteban",
-    lieu,
+    lieu : [],
     argent: 15,
     mainDroite: {
         nom: "main droite",
